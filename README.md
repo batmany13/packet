@@ -4,6 +4,15 @@
 * [ocp](https://www.opencompute.org/) - The Open Compute Project (OCP) is reimagining hardware, making it more efficient, flexible, and scalable. Join our global community of technology leaders working together to break open the black box of proprietary IT infrastructure to achieve greater choice, customization, and cost savings.
 * [Sledgehammer](http://provision.readthedocs.io/en/tip/doc/arch/sledgehammer.html) [repo](https://github.com/digitalrebar/sledgehammer) - Digital Rebar's system discovery/inventory/configuration in-memory OS image
 * [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) - Border Gateway Protocol,  is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet
+* [BMC](https://searchnetworking.techtarget.com/definition/baseboard-management-controller) - baseboard management controller
+* [OpenBMC](https://github.com/openbmc/docs) - open source project docs
+* [IPMI](https://github.com/openbmc/ipmitool) - Intelligent Platform Management Interface, IPMI is an open standard
+for monitoring, logging, recovery, inventory, and control of hardware
+that is implemented independent of the main CPU, BIOS, and OS.  The
+service processor (or Baseboard Management Controller, BMC) is the brain
+behind platform management and its primary purpose is to handle the
+autonomous sensor monitoring and event logging features.
+
 
 ## Packet Micro-services (provisioning)
 
